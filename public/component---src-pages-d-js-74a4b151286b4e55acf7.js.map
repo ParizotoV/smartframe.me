@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/d.js"],"names":["D"],"mappings":"2FAAA,gCAQeA,UANL,WACR,OACE","file":"component---src-pages-d-js-74a4b151286b4e55acf7.js","sourcesContent":["import React from 'react';\r\n\r\nconst D = () => {\r\n  return (\r\n    <h1>Mostrando display tablet</h1>\r\n  )\r\n}\r\n\r\nexport default D;"],"sourceRoot":""}
