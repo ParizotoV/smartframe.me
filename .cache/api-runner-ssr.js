@@ -1,5 +1,5 @@
 var plugins = [{
-      plugin: require('C:/Users/Vinicius Parizoto/Documents/DevPleno - cursos/SmartFrame/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
+      plugin: require('/home/vinicius/Documents/Programacao/smartframe.me/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
       options: {"plugins":[]},
     }]
 // During bootstrap, we write requires at top of this file which looks like:
